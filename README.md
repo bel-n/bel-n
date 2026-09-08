@@ -31,7 +31,7 @@ Gamified web platform for ocean conservation, built in 24h with a 3D marine mode
 <tr>
 <td>
 
-**[Digital Twin of Berth Planning](https://github.com/bel-n/digital-twin-berth-planning)** — *Hackathon 4.0*
+**[Digital Twin of Berth Planning](https://github.com/bel-n/Digital-Twin-of-berth-planning-process)** — *Hackathon 4.0*
 Prototype simulating port berth allocation with predictive scheduling models and a visual dashboard.
 
 ![Python](https://img.shields.io/badge/Python-6A0DAD?style=flat-square&logo=python&logoColor=white)
@@ -43,7 +43,7 @@ Prototype simulating port berth allocation with predictive scheduling models and
 <tr>
 <td>
 
-**[AdaHack — AI Learning Assistant](https://github.com/bel-n/adahack-learning-assistant)**
+**[AdaHack — AI Learning Assistant](https://github.com/bel-n/CodeForChangeProject)**
 Voice directed study assistant for visually impaired students, with summarization and TTS.
 
 ![Python](https://img.shields.io/badge/Python-6A0DAD?style=flat-square&logo=python&logoColor=white)
@@ -55,7 +55,7 @@ Voice directed study assistant for visually impaired students, with summarizatio
 <tr>
 <td>
 
-**[Real-Time Sentiment Analysis Platform](https://github.com/bel-n/realtime-sentiment-analysis)**
+**[Real-Time Sentiment Analysis Platform](https://github.com/bel-n/SentimentAnalysis)**
 Real time sentiment engine for streaming product reviews, benchmarked across sequential/parallel/distributed setups.
 
 ![Java](https://img.shields.io/badge/Java-6A0DAD?style=flat-square&logo=openjdk&logoColor=white)
@@ -68,7 +68,7 @@ Real time sentiment engine for streaming product reviews, benchmarked across seq
 <tr>
 <td>
 
-**[Full-Stack Information System](https://github.com/bel-n/fullstack-info-system)**
+**[Full-Stack Information System](https://github.com/bel-n/CauseConnect)**
 Full stack system with authentication, role-based access control, and full CRUD.
 
 ![React](https://img.shields.io/badge/React-6A0DAD?style=flat-square&logo=react&logoColor=white)
@@ -86,7 +86,7 @@ Full stack system with authentication, role-based access control, and full CRUD.
 <tr>
 <td>
 
-**[Natural Language Web Scraper](https://github.com/bel-n/nl-web-scraper)**
+**[Natural Language Web Scraper](https://github.com/bel-n/NaturalLanguageWebScraper)**
 Converts plain English scraping requests into structured data, no manual CSS selectors needed.
 
 ![Python](https://img.shields.io/badge/Python-6A0DAD?style=flat-square&logo=python&logoColor=white)
