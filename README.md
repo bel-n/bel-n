@@ -44,7 +44,7 @@ Prototype simulating port berth allocation with predictive scheduling models and
 <td>
 
 **[AdaHack — AI Learning Assistant](https://github.com/bel-n/adahack-learning-assistant)**
-Voice-directed study assistant for visually impaired students, with summarization and TTS.
+Voice directed study assistant for visually impaired students, with summarization and TTS.
 
 ![Python](https://img.shields.io/badge/Python-6A0DAD?style=flat-square&logo=python&logoColor=white)
 ![Voice Recognition](https://img.shields.io/badge/Voice_Recognition-6A0DAD?style=flat-square)
@@ -56,7 +56,7 @@ Voice-directed study assistant for visually impaired students, with summarizatio
 <td>
 
 **[Real-Time Sentiment Analysis Platform](https://github.com/bel-n/realtime-sentiment-analysis)**
-Real-time sentiment engine for streaming product reviews, benchmarked across sequential/parallel/distributed setups.
+Real time sentiment engine for streaming product reviews, benchmarked across sequential/parallel/distributed setups.
 
 ![Java](https://img.shields.io/badge/Java-6A0DAD?style=flat-square&logo=openjdk&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-6A0DAD?style=flat-square)
@@ -69,7 +69,7 @@ Real-time sentiment engine for streaming product reviews, benchmarked across seq
 <td>
 
 **[Full-Stack Information System](https://github.com/bel-n/fullstack-info-system)**
-Full-stack system with authentication, role-based access control, and full CRUD.
+Full stack system with authentication, role-based access control, and full CRUD.
 
 ![React](https://img.shields.io/badge/React-6A0DAD?style=flat-square&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-6A0DAD?style=flat-square&logo=node.js&logoColor=white)
@@ -87,7 +87,7 @@ Full-stack system with authentication, role-based access control, and full CRUD.
 <td>
 
 **[Natural Language Web Scraper](https://github.com/bel-n/nl-web-scraper)**
-Converts plain-English scraping requests into structured data, no manual CSS selectors needed.
+Converts plain English scraping requests into structured data, no manual CSS selectors needed.
 
 ![Python](https://img.shields.io/badge/Python-6A0DAD?style=flat-square&logo=python&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-6A0DAD?style=flat-square)
@@ -100,7 +100,7 @@ Converts plain-English scraping requests into structured data, no manual CSS sel
 <td>
 
 **[Automated Sensor](https://github.com/bel-n/Automated-sensor-py)**
-A Python script that reads air quality data from a sensor and shows PM2.5/PM10 levels on a simple local web page with color-coded pollution levels.
+A Python script that reads air quality data from a sensor and shows PM2.5/PM10 levels on a simple local web page with color coded pollution levels.
 
 ![Python](https://img.shields.io/badge/Python-6A0DAD?style=flat-square&logo=python&logoColor=white)
 
