@@ -3,7 +3,7 @@
 
 Projects worth mentioning down below, split into what I made for university/hackathons and what I built on my own.
 
-📍 Koper, Slovenia · [LinkedIn](https://linkedin.com/in/nade-belovinova) · [GitLab](https://gitlab.com/nadeB)
+📍 Koper, Slovenia · [LinkedIn](https://www.linkedin.com/in/nade-belovinova-054521281/) · [GitLab](https://gitlab.com/nadeB)
 
 ---
 
