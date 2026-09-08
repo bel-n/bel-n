@@ -5,7 +5,7 @@
 Computer scientist's repos worth mentioning down below, split into what I made for university/hackathons and what I built on my own.
 
 [![Location](https://img.shields.io/badge/📍-Koper,_Slovenia-6A0DAD?style=for-the-badge)](https://github.com/bel-n)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nade-belovinova)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nade-belovinova-054521281/)
 [![GitLab](https://img.shields.io/badge/GitLab-6A0DAD?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/nadeB)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A0DAD,100:C77DFF&height=3&width=1000" width="100%"/>
