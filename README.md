@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,100:C77DFF&height=180&section=header&text=Hi%20,%20I'm%20Nade&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,100:C77DFF&height=180&section=header&text=Hi%20,I'm%20Nade&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 Computer scientist's repos worth mentioning down below, split into what I made for university/hackathons and what I built on my own.
 
