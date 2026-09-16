@@ -112,5 +112,5 @@ A Python script that reads air quality data from a sensor and shows PM2.5/PM10 l
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A0DAD,100:C77DFF&height=3&width=1000" width="100%"/>
 
-<img src="https://readme-widget-hc3v2xdi7-nadebelovinova-8107s-projects.vercel.app/" /> 
+<img src="https://readme-widget-one.vercel.app/api/pet" /> 
 </div>
